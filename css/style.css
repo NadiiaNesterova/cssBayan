@@ -105,6 +105,7 @@ label input[type="radio"]:checked +.accordion-title + .accordion-image {
   }
   .accordion-item:hover .accordion-image {
       height: 250px;
+      margin-top: 40px;
   }
   label input[type="radio"]:checked +.accordion-title + .accordion-image {
     height: 250px;
